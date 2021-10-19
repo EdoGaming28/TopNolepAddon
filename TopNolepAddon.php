@@ -2,7 +2,7 @@
 declare(strict_types = 1);
 
 /**
- * @name TopNolepAddpn
+ * @name TopNolepAddon
  * @version 1.0.0
  * @main JackMD\ScoreHud\Addons\TopNolepAddon
  * @depend TopNolep
