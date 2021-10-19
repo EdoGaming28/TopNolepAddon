@@ -11,7 +11,7 @@ namespace JackMD\ScoreHud\Addons {
 
     use JackMD\ScoreHud\addon\AddonBase;
     use pocketmine\Player;
-    use TopNolep\EdoGaming\Main;
+    use Zedstar16\OnlineTime\Main;
 
     class TopNolepAddon extends AddonBase{
 
